@@ -77,13 +77,6 @@ Open questions that came out of this small experiment:
 - Are we overstating AI's contribution to transformative scientific work when models are provided only dataset snapshots without domain context?
 - Is the main value proposition of these models the speed and convenience of summarisation, or can they truly replace deep domain expertise when context is missing?
 
-These questions are intentionally left open in the repository. The analysis files contain the raw outputs so you can judge for yourself.
-
-## Try asking
-
-- How can I extend the analysis in `codex-analysis.md` to include statistical hypothesis tests between top candidate designs?
-- Where in `volumes.csv` should I look for unreliable FEM outputs (outliers / solver failures)?
-- What additional context (files or notes) would most improve Claude's analysis if I re-run the experiment?
 
 ## License
 
